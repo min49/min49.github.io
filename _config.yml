@@ -1,2 +1,33 @@
-theme: jekyll-theme-cayman
-title: "Min Thu Aung"
+remote_theme: daviddarnes/alembic
+title: Min Thu Aung
+logo: /assets/logos/logo.svg
+description: Welcome to my personal page!
+url: https://www.minthuaung.com
+repo: https://github.com/min49/min49.github.io
+
+navigation_header:
+  - title: Home
+    url: /
+    
+navigation_footer:
+  - title: About this page
+    url: /about-this-page.html
+
+author: Min Thu Aung
+social:
+    name: Min Thu Aung
+    links:
+      - https://www.linkedin.com/in/minthuaung
+      - https://github.com/min49
+
+exclude: 
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - alembic-jekyll-theme.gemspec
+  - .jekyll-cache
+
+plugins: 
+  - jekyll-remote-theme
+
