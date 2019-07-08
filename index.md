@@ -19,6 +19,10 @@ Simplified version of TinyURL, written with NodeJS, Express and MongoDB (mongoos
 Created with React, it features comma separated digit display, fixed maximum digits, and keyboard input handling to mimic physical calculators.
 [View Demo](/calculator)
 
+#### [Pomodoro](https://github.com/min49/pomodoro)
+Tools used: React hooks, Styled component.
+[View Demo](/pomodoro)
+
 My profile pages:
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/min49" color="#333" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/minthuaung/" color="#0077b5" %}
