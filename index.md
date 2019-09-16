@@ -12,16 +12,16 @@ I aspire to write clean, maintainable code and am constantly learning to improve
 
 ### My Projects
 
-#### [URL Shortener Microservice](https://github.com/min49/url-shortener)
-Simplified version of TinyURL, written with NodeJS, Express and MongoDB (mongoose). Code components separated into routes, controllers, business entities, and database models to make changes to the project easy.
+#### [Pomodoro](https://github.com/min49/pomodoro)
+Tools used: React hooks, Styled component.
+[View Demo](https://pomodoro-min49.herokuapp.com)
 
 #### [Calculator](https://github.com/min49/calculator)
 Created with React, it features comma separated digit display, fixed maximum digits, and keyboard input handling to mimic physical calculators.
 [View Demo](/calculator)
 
-#### [Pomodoro](https://github.com/min49/pomodoro)
-Tools used: React hooks, Styled component.
-[View Demo](/pomodoro)
+#### [URL Shortener Microservice](https://github.com/min49/url-shortener)
+Simplified version of TinyURL, written with NodeJS, Express and MongoDB (mongoose). Code components separated into routes, controllers, business entities, and database models to make changes to the project easy.
 
 My profile pages:
 
